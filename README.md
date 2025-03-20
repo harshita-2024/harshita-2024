@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-'m currently working on building my Data Analytics portfolio<br><br>🤝 I'm looking to collaborate on real-world data projects<br><br>🆘 I'm looking for help with advanced SQL queries and data storytelling<br><br>📚 I’ve recently completed a Data Analytics course, focusing on SQL, Power BI, and Python<br><br>💬 Ask me about data cleaning, SQL optimization, and dashboard creation<br><br>🎉 Fun fact Numbers tell stories, but visualization makes them unforgettable!<br>- <br>
+I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm looking to collaborate on real-world data projects<br><br>🆘 I'm looking for help with advanced SQL queries and data storytelling<br><br>📚 I’ve recently completed a Data Analytics course, focusing on SQL, Power BI, and Python<br><br>💬 Ask me about data cleaning, SQL optimization, and dashboard creation<br><br>🎉 Fun fact Numbers tell stories, but visualization makes them unforgettable!<br>- <br>
 
 
 ## 🌐 Socials:
