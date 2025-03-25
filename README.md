@@ -27,8 +27,8 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  - [Data Cleaning in SQL](https://github.com/YOUR_USERNAME/YOUR_PROJECT)  
-- 📊 [Power BI Sales Dashboard](https://github.com/YOUR_USERNAME/YOUR_PROJECT)  
-- 🐍 [Python Data Analysis](https://github.com/YOUR_USERNAME/YOUR_PROJECT)
+ [Power BI Sales Dashboard](https://github.com/YOUR_USERNAME/YOUR_PROJECT)  
+ [Python Data Analysis](https://github.com/YOUR_USERNAME/YOUR_PROJECT)
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshita&theme=dark&hide_border=false)<br/>
