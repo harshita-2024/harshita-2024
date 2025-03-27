@@ -69,9 +69,11 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 📈 *Tableau Dashboards* - Created interactive dashboards for marketing analytics
 
 
+
 ## 📊 GitHub Stats
 ![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita-2024&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harshita-2024&theme=radical)
+
 
 
 ## 📫 Connect with Me
@@ -79,12 +81,17 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 [![Gmail]https://mail.google.com/mail/u/0/#inbox   (harshitadahiya2021@gmail.com)
 
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harshita&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
 
 
 ### Top Contributed Repo
