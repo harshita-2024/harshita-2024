@@ -60,8 +60,7 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshita&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/ 
-username=Harshita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
