@@ -70,8 +70,6 @@ Projects & Portfolio
 
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
 [![LinkedIn]www.linkedin.com/in/harshita-dahiya-066344245
