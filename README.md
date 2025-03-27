@@ -61,6 +61,26 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshita&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+Projects & Portfolio
+
+Showcase your best projects with a short description and a link.
+
+## 🚀 Projects & Portfolio
+🔹 *[Sales Data Analysis](#)* - Analyzed sales data using SQL & Power BI to generate insights.  
+🔹 *[Customer Segmentation](#)* - Used Python & Machine Learning to cluster customer data.  
+🔹 *[Tableau Dashboards](#)* - Built interactive dashboards for financial and marketing analytics.
+
+
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+Contact & Social Links
+## 📫 Connect with Me
+[![LinkedIn]www.linkedin.com/in/harshita-dahiya-066344245
+[![Gmail]https://mail.google.com/mail/u/0/#inbox   (harshitadahiya2021@gmail.com)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harshita&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
