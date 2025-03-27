@@ -62,7 +62,7 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-Projects & Portfolio
+
 ## 🚀 Projects & Portfolio
 📊 *Sales Data Analysis* - Analyzed sales trends using SQL and Power BI.  
 🤖 *Customer Segmentation* - Clustered customer data using Python and Machine Learning.  
