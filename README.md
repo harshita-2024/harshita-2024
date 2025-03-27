@@ -73,8 +73,7 @@ username=Harshita&theme=dark&hide_border=false&include_all_commits=true&count_pr
 
 
 ## 📊 GitHub Stats  
-![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshita-2024&show_icons=true&theme=radical)  
-![Top Languages]
+![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?
 
 
 
