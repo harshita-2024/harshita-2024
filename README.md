@@ -70,6 +70,7 @@ Projects & Portfolio
 
 
 ## 📊 GitHub Stats
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita-2024&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn]www.linkedin.com/in/harshita-dahiya-066344245
