@@ -64,24 +64,28 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 
 Projects & Portfolio
 ## 🚀 Projects & Portfolio
-🔹 *[Sales Data Analysis](#)* - Analyzed sales data using SQL & Power BI to generate insights.  
-🔹 *[Customer Segmentation](#)* - Used Python & Machine Learning to cluster customer data.  
-🔹 *[Tableau Dashboards](#)* - Built interactive dashboards for financial and marketing analytics.
+📊 *Sales Data Analysis* - Analyzed sales trends using SQL and Power BI.  
+🤖 *Customer Segmentation* - Clustered customer data using Python and Machine Learning.  
+📈 *Tableau Dashboards* - Created interactive dashboards for marketing analytics
 
 
 ## 📊 GitHub Stats
 ![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita-2024&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harshita-2024&theme=radical)
 
+
 ## 📫 Connect with Me
 [![LinkedIn]www.linkedin.com/in/harshita-dahiya-066344245
 [![Gmail]https://mail.google.com/mail/u/0/#inbox   (harshitadahiya2021@gmail.com)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harshita&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Harshita&limit=5&theme=dark&combine_all_yearly_contributions=true)
