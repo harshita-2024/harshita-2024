@@ -71,8 +71,12 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 
 
 
+
 ## 📊 GitHub Stats  
-![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?
+![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshita-2024&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-2024&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshita-2024&theme=radical)  
+
 
 
 
@@ -82,14 +86,18 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 
 
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harshita&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
 
 
 
