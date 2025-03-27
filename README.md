@@ -63,9 +63,6 @@ I'm currently working on building my Data Analytics portfolio<br><br>🤝 I'm lo
 
 
 Projects & Portfolio
-
-Showcase your best projects with a short description and a link.
-
 ## 🚀 Projects & Portfolio
 🔹 *[Sales Data Analysis](#)* - Analyzed sales data using SQL & Power BI to generate insights.  
 🔹 *[Customer Segmentation](#)* - Used Python & Machine Learning to cluster customer data.  
@@ -76,7 +73,6 @@ Showcase your best projects with a short description and a link.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
-Contact & Social Links
 ## 📫 Connect with Me
 [![LinkedIn]www.linkedin.com/in/harshita-dahiya-066344245
 [![Gmail]https://mail.google.com/mail/u/0/#inbox   (harshitadahiya2021@gmail.com)
@@ -87,9 +83,8 @@ Contact & Social Links
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Harshita&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Harshita&icon=0&color=0)](https://visitcount.itsvg.in)
 
